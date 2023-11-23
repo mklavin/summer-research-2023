@@ -2,7 +2,7 @@ import warnings
 import sys
 import pandas as pd
 import pickle
-#from photocatalyst_data.training import *
+#from photocatalyst_work.training import *
 from sklearn.model_selection import cross_val_score
 import glob
 from padelpy import padeldescriptor
