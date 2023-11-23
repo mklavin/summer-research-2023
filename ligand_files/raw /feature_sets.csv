@@ -1,0 +1,1141 @@
+,feature1,feature2,feature3
+0,HOMO,LUMO,softness
+1,HOMO,LUMO,Dipole
+2,HOMO,LUMO,Pol
+3,HOMO,LUMO,Torsion
+4,HOMO,LUMO,B1
+5,HOMO,LUMO,B5
+6,HOMO,LUMO,BL
+7,HOMO,LUMO,Volavg X
+8,HOMO,LUMO,NBOC1
+9,HOMO,LUMO,NBON1
+10,HOMO,LUMO,NBOC2
+11,HOMO,LUMO,NBOC3
+12,HOMO,LUMO,NBOX
+13,HOMO,LUMO,NBOC4
+14,HOMO,LUMO,νCNssy
+15,HOMO,LUMO,iCNssy
+16,HOMO,LUMO,νCNsas
+17,HOMO,LUMO,iCNsas
+18,HOMO,softness,Dipole
+19,HOMO,softness,Pol
+20,HOMO,softness,Torsion
+21,HOMO,softness,B1
+22,HOMO,softness,B5
+23,HOMO,softness,BL
+24,HOMO,softness,Volavg X
+25,HOMO,softness,NBOC1
+26,HOMO,softness,NBON1
+27,HOMO,softness,NBOC2
+28,HOMO,softness,NBOC3
+29,HOMO,softness,NBOX
+30,HOMO,softness,NBOC4
+31,HOMO,softness,νCNssy
+32,HOMO,softness,iCNssy
+33,HOMO,softness,νCNsas
+34,HOMO,softness,iCNsas
+35,HOMO,Dipole,Pol
+36,HOMO,Dipole,Torsion
+37,HOMO,Dipole,B1
+38,HOMO,Dipole,B5
+39,HOMO,Dipole,BL
+40,HOMO,Dipole,Volavg X
+41,HOMO,Dipole,NBOC1
+42,HOMO,Dipole,NBON1
+43,HOMO,Dipole,NBOC2
+44,HOMO,Dipole,NBOC3
+45,HOMO,Dipole,NBOX
+46,HOMO,Dipole,NBOC4
+47,HOMO,Dipole,νCNssy
+48,HOMO,Dipole,iCNssy
+49,HOMO,Dipole,νCNsas
+50,HOMO,Dipole,iCNsas
+51,HOMO,Pol,Torsion
+52,HOMO,Pol,B1
+53,HOMO,Pol,B5
+54,HOMO,Pol,BL
+55,HOMO,Pol,Volavg X
+56,HOMO,Pol,NBOC1
+57,HOMO,Pol,NBON1
+58,HOMO,Pol,NBOC2
+59,HOMO,Pol,NBOC3
+60,HOMO,Pol,NBOX
+61,HOMO,Pol,NBOC4
+62,HOMO,Pol,νCNssy
+63,HOMO,Pol,iCNssy
+64,HOMO,Pol,νCNsas
+65,HOMO,Pol,iCNsas
+66,HOMO,Torsion,B1
+67,HOMO,Torsion,B5
+68,HOMO,Torsion,BL
+69,HOMO,Torsion,Volavg X
+70,HOMO,Torsion,NBOC1
+71,HOMO,Torsion,NBON1
+72,HOMO,Torsion,NBOC2
+73,HOMO,Torsion,NBOC3
+74,HOMO,Torsion,NBOX
+75,HOMO,Torsion,NBOC4
+76,HOMO,Torsion,νCNssy
+77,HOMO,Torsion,iCNssy
+78,HOMO,Torsion,νCNsas
+79,HOMO,Torsion,iCNsas
+80,HOMO,B1,B5
+81,HOMO,B1,BL
+82,HOMO,B1,Volavg X
+83,HOMO,B1,NBOC1
+84,HOMO,B1,NBON1
+85,HOMO,B1,NBOC2
+86,HOMO,B1,NBOC3
+87,HOMO,B1,NBOX
+88,HOMO,B1,NBOC4
+89,HOMO,B1,νCNssy
+90,HOMO,B1,iCNssy
+91,HOMO,B1,νCNsas
+92,HOMO,B1,iCNsas
+93,HOMO,B5,BL
+94,HOMO,B5,Volavg X
+95,HOMO,B5,NBOC1
+96,HOMO,B5,NBON1
+97,HOMO,B5,NBOC2
+98,HOMO,B5,NBOC3
+99,HOMO,B5,NBOX
+100,HOMO,B5,NBOC4
+101,HOMO,B5,νCNssy
+102,HOMO,B5,iCNssy
+103,HOMO,B5,νCNsas
+104,HOMO,B5,iCNsas
+105,HOMO,BL,Volavg X
+106,HOMO,BL,NBOC1
+107,HOMO,BL,NBON1
+108,HOMO,BL,NBOC2
+109,HOMO,BL,NBOC3
+110,HOMO,BL,NBOX
+111,HOMO,BL,NBOC4
+112,HOMO,BL,νCNssy
+113,HOMO,BL,iCNssy
+114,HOMO,BL,νCNsas
+115,HOMO,BL,iCNsas
+116,HOMO,Volavg X,NBOC1
+117,HOMO,Volavg X,NBON1
+118,HOMO,Volavg X,NBOC2
+119,HOMO,Volavg X,NBOC3
+120,HOMO,Volavg X,NBOX
+121,HOMO,Volavg X,NBOC4
+122,HOMO,Volavg X,νCNssy
+123,HOMO,Volavg X,iCNssy
+124,HOMO,Volavg X,νCNsas
+125,HOMO,Volavg X,iCNsas
+126,HOMO,NBOC1,NBON1
+127,HOMO,NBOC1,NBOC2
+128,HOMO,NBOC1,NBOC3
+129,HOMO,NBOC1,NBOX
+130,HOMO,NBOC1,NBOC4
+131,HOMO,NBOC1,νCNssy
+132,HOMO,NBOC1,iCNssy
+133,HOMO,NBOC1,νCNsas
+134,HOMO,NBOC1,iCNsas
+135,HOMO,NBON1,NBOC2
+136,HOMO,NBON1,NBOC3
+137,HOMO,NBON1,NBOX
+138,HOMO,NBON1,NBOC4
+139,HOMO,NBON1,νCNssy
+140,HOMO,NBON1,iCNssy
+141,HOMO,NBON1,νCNsas
+142,HOMO,NBON1,iCNsas
+143,HOMO,NBOC2,NBOC3
+144,HOMO,NBOC2,NBOX
+145,HOMO,NBOC2,NBOC4
+146,HOMO,NBOC2,νCNssy
+147,HOMO,NBOC2,iCNssy
+148,HOMO,NBOC2,νCNsas
+149,HOMO,NBOC2,iCNsas
+150,HOMO,NBOC3,NBOX
+151,HOMO,NBOC3,NBOC4
+152,HOMO,NBOC3,νCNssy
+153,HOMO,NBOC3,iCNssy
+154,HOMO,NBOC3,νCNsas
+155,HOMO,NBOC3,iCNsas
+156,HOMO,NBOX,NBOC4
+157,HOMO,NBOX,νCNssy
+158,HOMO,NBOX,iCNssy
+159,HOMO,NBOX,νCNsas
+160,HOMO,NBOX,iCNsas
+161,HOMO,NBOC4,νCNssy
+162,HOMO,NBOC4,iCNssy
+163,HOMO,NBOC4,νCNsas
+164,HOMO,NBOC4,iCNsas
+165,HOMO,νCNssy,iCNssy
+166,HOMO,νCNssy,νCNsas
+167,HOMO,νCNssy,iCNsas
+168,HOMO,iCNssy,νCNsas
+169,HOMO,iCNssy,iCNsas
+170,HOMO,νCNsas,iCNsas
+171,LUMO,softness,Dipole
+172,LUMO,softness,Pol
+173,LUMO,softness,Torsion
+174,LUMO,softness,B1
+175,LUMO,softness,B5
+176,LUMO,softness,BL
+177,LUMO,softness,Volavg X
+178,LUMO,softness,NBOC1
+179,LUMO,softness,NBON1
+180,LUMO,softness,NBOC2
+181,LUMO,softness,NBOC3
+182,LUMO,softness,NBOX
+183,LUMO,softness,NBOC4
+184,LUMO,softness,νCNssy
+185,LUMO,softness,iCNssy
+186,LUMO,softness,νCNsas
+187,LUMO,softness,iCNsas
+188,LUMO,Dipole,Pol
+189,LUMO,Dipole,Torsion
+190,LUMO,Dipole,B1
+191,LUMO,Dipole,B5
+192,LUMO,Dipole,BL
+193,LUMO,Dipole,Volavg X
+194,LUMO,Dipole,NBOC1
+195,LUMO,Dipole,NBON1
+196,LUMO,Dipole,NBOC2
+197,LUMO,Dipole,NBOC3
+198,LUMO,Dipole,NBOX
+199,LUMO,Dipole,NBOC4
+200,LUMO,Dipole,νCNssy
+201,LUMO,Dipole,iCNssy
+202,LUMO,Dipole,νCNsas
+203,LUMO,Dipole,iCNsas
+204,LUMO,Pol,Torsion
+205,LUMO,Pol,B1
+206,LUMO,Pol,B5
+207,LUMO,Pol,BL
+208,LUMO,Pol,Volavg X
+209,LUMO,Pol,NBOC1
+210,LUMO,Pol,NBON1
+211,LUMO,Pol,NBOC2
+212,LUMO,Pol,NBOC3
+213,LUMO,Pol,NBOX
+214,LUMO,Pol,NBOC4
+215,LUMO,Pol,νCNssy
+216,LUMO,Pol,iCNssy
+217,LUMO,Pol,νCNsas
+218,LUMO,Pol,iCNsas
+219,LUMO,Torsion,B1
+220,LUMO,Torsion,B5
+221,LUMO,Torsion,BL
+222,LUMO,Torsion,Volavg X
+223,LUMO,Torsion,NBOC1
+224,LUMO,Torsion,NBON1
+225,LUMO,Torsion,NBOC2
+226,LUMO,Torsion,NBOC3
+227,LUMO,Torsion,NBOX
+228,LUMO,Torsion,NBOC4
+229,LUMO,Torsion,νCNssy
+230,LUMO,Torsion,iCNssy
+231,LUMO,Torsion,νCNsas
+232,LUMO,Torsion,iCNsas
+233,LUMO,B1,B5
+234,LUMO,B1,BL
+235,LUMO,B1,Volavg X
+236,LUMO,B1,NBOC1
+237,LUMO,B1,NBON1
+238,LUMO,B1,NBOC2
+239,LUMO,B1,NBOC3
+240,LUMO,B1,NBOX
+241,LUMO,B1,NBOC4
+242,LUMO,B1,νCNssy
+243,LUMO,B1,iCNssy
+244,LUMO,B1,νCNsas
+245,LUMO,B1,iCNsas
+246,LUMO,B5,BL
+247,LUMO,B5,Volavg X
+248,LUMO,B5,NBOC1
+249,LUMO,B5,NBON1
+250,LUMO,B5,NBOC2
+251,LUMO,B5,NBOC3
+252,LUMO,B5,NBOX
+253,LUMO,B5,NBOC4
+254,LUMO,B5,νCNssy
+255,LUMO,B5,iCNssy
+256,LUMO,B5,νCNsas
+257,LUMO,B5,iCNsas
+258,LUMO,BL,Volavg X
+259,LUMO,BL,NBOC1
+260,LUMO,BL,NBON1
+261,LUMO,BL,NBOC2
+262,LUMO,BL,NBOC3
+263,LUMO,BL,NBOX
+264,LUMO,BL,NBOC4
+265,LUMO,BL,νCNssy
+266,LUMO,BL,iCNssy
+267,LUMO,BL,νCNsas
+268,LUMO,BL,iCNsas
+269,LUMO,Volavg X,NBOC1
+270,LUMO,Volavg X,NBON1
+271,LUMO,Volavg X,NBOC2
+272,LUMO,Volavg X,NBOC3
+273,LUMO,Volavg X,NBOX
+274,LUMO,Volavg X,NBOC4
+275,LUMO,Volavg X,νCNssy
+276,LUMO,Volavg X,iCNssy
+277,LUMO,Volavg X,νCNsas
+278,LUMO,Volavg X,iCNsas
+279,LUMO,NBOC1,NBON1
+280,LUMO,NBOC1,NBOC2
+281,LUMO,NBOC1,NBOC3
+282,LUMO,NBOC1,NBOX
+283,LUMO,NBOC1,NBOC4
+284,LUMO,NBOC1,νCNssy
+285,LUMO,NBOC1,iCNssy
+286,LUMO,NBOC1,νCNsas
+287,LUMO,NBOC1,iCNsas
+288,LUMO,NBON1,NBOC2
+289,LUMO,NBON1,NBOC3
+290,LUMO,NBON1,NBOX
+291,LUMO,NBON1,NBOC4
+292,LUMO,NBON1,νCNssy
+293,LUMO,NBON1,iCNssy
+294,LUMO,NBON1,νCNsas
+295,LUMO,NBON1,iCNsas
+296,LUMO,NBOC2,NBOC3
+297,LUMO,NBOC2,NBOX
+298,LUMO,NBOC2,NBOC4
+299,LUMO,NBOC2,νCNssy
+300,LUMO,NBOC2,iCNssy
+301,LUMO,NBOC2,νCNsas
+302,LUMO,NBOC2,iCNsas
+303,LUMO,NBOC3,NBOX
+304,LUMO,NBOC3,NBOC4
+305,LUMO,NBOC3,νCNssy
+306,LUMO,NBOC3,iCNssy
+307,LUMO,NBOC3,νCNsas
+308,LUMO,NBOC3,iCNsas
+309,LUMO,NBOX,NBOC4
+310,LUMO,NBOX,νCNssy
+311,LUMO,NBOX,iCNssy
+312,LUMO,NBOX,νCNsas
+313,LUMO,NBOX,iCNsas
+314,LUMO,NBOC4,νCNssy
+315,LUMO,NBOC4,iCNssy
+316,LUMO,NBOC4,νCNsas
+317,LUMO,NBOC4,iCNsas
+318,LUMO,νCNssy,iCNssy
+319,LUMO,νCNssy,νCNsas
+320,LUMO,νCNssy,iCNsas
+321,LUMO,iCNssy,νCNsas
+322,LUMO,iCNssy,iCNsas
+323,LUMO,νCNsas,iCNsas
+324,softness,Dipole,Pol
+325,softness,Dipole,Torsion
+326,softness,Dipole,B1
+327,softness,Dipole,B5
+328,softness,Dipole,BL
+329,softness,Dipole,Volavg X
+330,softness,Dipole,NBOC1
+331,softness,Dipole,NBON1
+332,softness,Dipole,NBOC2
+333,softness,Dipole,NBOC3
+334,softness,Dipole,NBOX
+335,softness,Dipole,NBOC4
+336,softness,Dipole,νCNssy
+337,softness,Dipole,iCNssy
+338,softness,Dipole,νCNsas
+339,softness,Dipole,iCNsas
+340,softness,Pol,Torsion
+341,softness,Pol,B1
+342,softness,Pol,B5
+343,softness,Pol,BL
+344,softness,Pol,Volavg X
+345,softness,Pol,NBOC1
+346,softness,Pol,NBON1
+347,softness,Pol,NBOC2
+348,softness,Pol,NBOC3
+349,softness,Pol,NBOX
+350,softness,Pol,NBOC4
+351,softness,Pol,νCNssy
+352,softness,Pol,iCNssy
+353,softness,Pol,νCNsas
+354,softness,Pol,iCNsas
+355,softness,Torsion,B1
+356,softness,Torsion,B5
+357,softness,Torsion,BL
+358,softness,Torsion,Volavg X
+359,softness,Torsion,NBOC1
+360,softness,Torsion,NBON1
+361,softness,Torsion,NBOC2
+362,softness,Torsion,NBOC3
+363,softness,Torsion,NBOX
+364,softness,Torsion,NBOC4
+365,softness,Torsion,νCNssy
+366,softness,Torsion,iCNssy
+367,softness,Torsion,νCNsas
+368,softness,Torsion,iCNsas
+369,softness,B1,B5
+370,softness,B1,BL
+371,softness,B1,Volavg X
+372,softness,B1,NBOC1
+373,softness,B1,NBON1
+374,softness,B1,NBOC2
+375,softness,B1,NBOC3
+376,softness,B1,NBOX
+377,softness,B1,NBOC4
+378,softness,B1,νCNssy
+379,softness,B1,iCNssy
+380,softness,B1,νCNsas
+381,softness,B1,iCNsas
+382,softness,B5,BL
+383,softness,B5,Volavg X
+384,softness,B5,NBOC1
+385,softness,B5,NBON1
+386,softness,B5,NBOC2
+387,softness,B5,NBOC3
+388,softness,B5,NBOX
+389,softness,B5,NBOC4
+390,softness,B5,νCNssy
+391,softness,B5,iCNssy
+392,softness,B5,νCNsas
+393,softness,B5,iCNsas
+394,softness,BL,Volavg X
+395,softness,BL,NBOC1
+396,softness,BL,NBON1
+397,softness,BL,NBOC2
+398,softness,BL,NBOC3
+399,softness,BL,NBOX
+400,softness,BL,NBOC4
+401,softness,BL,νCNssy
+402,softness,BL,iCNssy
+403,softness,BL,νCNsas
+404,softness,BL,iCNsas
+405,softness,Volavg X,NBOC1
+406,softness,Volavg X,NBON1
+407,softness,Volavg X,NBOC2
+408,softness,Volavg X,NBOC3
+409,softness,Volavg X,NBOX
+410,softness,Volavg X,NBOC4
+411,softness,Volavg X,νCNssy
+412,softness,Volavg X,iCNssy
+413,softness,Volavg X,νCNsas
+414,softness,Volavg X,iCNsas
+415,softness,NBOC1,NBON1
+416,softness,NBOC1,NBOC2
+417,softness,NBOC1,NBOC3
+418,softness,NBOC1,NBOX
+419,softness,NBOC1,NBOC4
+420,softness,NBOC1,νCNssy
+421,softness,NBOC1,iCNssy
+422,softness,NBOC1,νCNsas
+423,softness,NBOC1,iCNsas
+424,softness,NBON1,NBOC2
+425,softness,NBON1,NBOC3
+426,softness,NBON1,NBOX
+427,softness,NBON1,NBOC4
+428,softness,NBON1,νCNssy
+429,softness,NBON1,iCNssy
+430,softness,NBON1,νCNsas
+431,softness,NBON1,iCNsas
+432,softness,NBOC2,NBOC3
+433,softness,NBOC2,NBOX
+434,softness,NBOC2,NBOC4
+435,softness,NBOC2,νCNssy
+436,softness,NBOC2,iCNssy
+437,softness,NBOC2,νCNsas
+438,softness,NBOC2,iCNsas
+439,softness,NBOC3,NBOX
+440,softness,NBOC3,NBOC4
+441,softness,NBOC3,νCNssy
+442,softness,NBOC3,iCNssy
+443,softness,NBOC3,νCNsas
+444,softness,NBOC3,iCNsas
+445,softness,NBOX,NBOC4
+446,softness,NBOX,νCNssy
+447,softness,NBOX,iCNssy
+448,softness,NBOX,νCNsas
+449,softness,NBOX,iCNsas
+450,softness,NBOC4,νCNssy
+451,softness,NBOC4,iCNssy
+452,softness,NBOC4,νCNsas
+453,softness,NBOC4,iCNsas
+454,softness,νCNssy,iCNssy
+455,softness,νCNssy,νCNsas
+456,softness,νCNssy,iCNsas
+457,softness,iCNssy,νCNsas
+458,softness,iCNssy,iCNsas
+459,softness,νCNsas,iCNsas
+460,Dipole,Pol,Torsion
+461,Dipole,Pol,B1
+462,Dipole,Pol,B5
+463,Dipole,Pol,BL
+464,Dipole,Pol,Volavg X
+465,Dipole,Pol,NBOC1
+466,Dipole,Pol,NBON1
+467,Dipole,Pol,NBOC2
+468,Dipole,Pol,NBOC3
+469,Dipole,Pol,NBOX
+470,Dipole,Pol,NBOC4
+471,Dipole,Pol,νCNssy
+472,Dipole,Pol,iCNssy
+473,Dipole,Pol,νCNsas
+474,Dipole,Pol,iCNsas
+475,Dipole,Torsion,B1
+476,Dipole,Torsion,B5
+477,Dipole,Torsion,BL
+478,Dipole,Torsion,Volavg X
+479,Dipole,Torsion,NBOC1
+480,Dipole,Torsion,NBON1
+481,Dipole,Torsion,NBOC2
+482,Dipole,Torsion,NBOC3
+483,Dipole,Torsion,NBOX
+484,Dipole,Torsion,NBOC4
+485,Dipole,Torsion,νCNssy
+486,Dipole,Torsion,iCNssy
+487,Dipole,Torsion,νCNsas
+488,Dipole,Torsion,iCNsas
+489,Dipole,B1,B5
+490,Dipole,B1,BL
+491,Dipole,B1,Volavg X
+492,Dipole,B1,NBOC1
+493,Dipole,B1,NBON1
+494,Dipole,B1,NBOC2
+495,Dipole,B1,NBOC3
+496,Dipole,B1,NBOX
+497,Dipole,B1,NBOC4
+498,Dipole,B1,νCNssy
+499,Dipole,B1,iCNssy
+500,Dipole,B1,νCNsas
+501,Dipole,B1,iCNsas
+502,Dipole,B5,BL
+503,Dipole,B5,Volavg X
+504,Dipole,B5,NBOC1
+505,Dipole,B5,NBON1
+506,Dipole,B5,NBOC2
+507,Dipole,B5,NBOC3
+508,Dipole,B5,NBOX
+509,Dipole,B5,NBOC4
+510,Dipole,B5,νCNssy
+511,Dipole,B5,iCNssy
+512,Dipole,B5,νCNsas
+513,Dipole,B5,iCNsas
+514,Dipole,BL,Volavg X
+515,Dipole,BL,NBOC1
+516,Dipole,BL,NBON1
+517,Dipole,BL,NBOC2
+518,Dipole,BL,NBOC3
+519,Dipole,BL,NBOX
+520,Dipole,BL,NBOC4
+521,Dipole,BL,νCNssy
+522,Dipole,BL,iCNssy
+523,Dipole,BL,νCNsas
+524,Dipole,BL,iCNsas
+525,Dipole,Volavg X,NBOC1
+526,Dipole,Volavg X,NBON1
+527,Dipole,Volavg X,NBOC2
+528,Dipole,Volavg X,NBOC3
+529,Dipole,Volavg X,NBOX
+530,Dipole,Volavg X,NBOC4
+531,Dipole,Volavg X,νCNssy
+532,Dipole,Volavg X,iCNssy
+533,Dipole,Volavg X,νCNsas
+534,Dipole,Volavg X,iCNsas
+535,Dipole,NBOC1,NBON1
+536,Dipole,NBOC1,NBOC2
+537,Dipole,NBOC1,NBOC3
+538,Dipole,NBOC1,NBOX
+539,Dipole,NBOC1,NBOC4
+540,Dipole,NBOC1,νCNssy
+541,Dipole,NBOC1,iCNssy
+542,Dipole,NBOC1,νCNsas
+543,Dipole,NBOC1,iCNsas
+544,Dipole,NBON1,NBOC2
+545,Dipole,NBON1,NBOC3
+546,Dipole,NBON1,NBOX
+547,Dipole,NBON1,NBOC4
+548,Dipole,NBON1,νCNssy
+549,Dipole,NBON1,iCNssy
+550,Dipole,NBON1,νCNsas
+551,Dipole,NBON1,iCNsas
+552,Dipole,NBOC2,NBOC3
+553,Dipole,NBOC2,NBOX
+554,Dipole,NBOC2,NBOC4
+555,Dipole,NBOC2,νCNssy
+556,Dipole,NBOC2,iCNssy
+557,Dipole,NBOC2,νCNsas
+558,Dipole,NBOC2,iCNsas
+559,Dipole,NBOC3,NBOX
+560,Dipole,NBOC3,NBOC4
+561,Dipole,NBOC3,νCNssy
+562,Dipole,NBOC3,iCNssy
+563,Dipole,NBOC3,νCNsas
+564,Dipole,NBOC3,iCNsas
+565,Dipole,NBOX,NBOC4
+566,Dipole,NBOX,νCNssy
+567,Dipole,NBOX,iCNssy
+568,Dipole,NBOX,νCNsas
+569,Dipole,NBOX,iCNsas
+570,Dipole,NBOC4,νCNssy
+571,Dipole,NBOC4,iCNssy
+572,Dipole,NBOC4,νCNsas
+573,Dipole,NBOC4,iCNsas
+574,Dipole,νCNssy,iCNssy
+575,Dipole,νCNssy,νCNsas
+576,Dipole,νCNssy,iCNsas
+577,Dipole,iCNssy,νCNsas
+578,Dipole,iCNssy,iCNsas
+579,Dipole,νCNsas,iCNsas
+580,Pol,Torsion,B1
+581,Pol,Torsion,B5
+582,Pol,Torsion,BL
+583,Pol,Torsion,Volavg X
+584,Pol,Torsion,NBOC1
+585,Pol,Torsion,NBON1
+586,Pol,Torsion,NBOC2
+587,Pol,Torsion,NBOC3
+588,Pol,Torsion,NBOX
+589,Pol,Torsion,NBOC4
+590,Pol,Torsion,νCNssy
+591,Pol,Torsion,iCNssy
+592,Pol,Torsion,νCNsas
+593,Pol,Torsion,iCNsas
+594,Pol,B1,B5
+595,Pol,B1,BL
+596,Pol,B1,Volavg X
+597,Pol,B1,NBOC1
+598,Pol,B1,NBON1
+599,Pol,B1,NBOC2
+600,Pol,B1,NBOC3
+601,Pol,B1,NBOX
+602,Pol,B1,NBOC4
+603,Pol,B1,νCNssy
+604,Pol,B1,iCNssy
+605,Pol,B1,νCNsas
+606,Pol,B1,iCNsas
+607,Pol,B5,BL
+608,Pol,B5,Volavg X
+609,Pol,B5,NBOC1
+610,Pol,B5,NBON1
+611,Pol,B5,NBOC2
+612,Pol,B5,NBOC3
+613,Pol,B5,NBOX
+614,Pol,B5,NBOC4
+615,Pol,B5,νCNssy
+616,Pol,B5,iCNssy
+617,Pol,B5,νCNsas
+618,Pol,B5,iCNsas
+619,Pol,BL,Volavg X
+620,Pol,BL,NBOC1
+621,Pol,BL,NBON1
+622,Pol,BL,NBOC2
+623,Pol,BL,NBOC3
+624,Pol,BL,NBOX
+625,Pol,BL,NBOC4
+626,Pol,BL,νCNssy
+627,Pol,BL,iCNssy
+628,Pol,BL,νCNsas
+629,Pol,BL,iCNsas
+630,Pol,Volavg X,NBOC1
+631,Pol,Volavg X,NBON1
+632,Pol,Volavg X,NBOC2
+633,Pol,Volavg X,NBOC3
+634,Pol,Volavg X,NBOX
+635,Pol,Volavg X,NBOC4
+636,Pol,Volavg X,νCNssy
+637,Pol,Volavg X,iCNssy
+638,Pol,Volavg X,νCNsas
+639,Pol,Volavg X,iCNsas
+640,Pol,NBOC1,NBON1
+641,Pol,NBOC1,NBOC2
+642,Pol,NBOC1,NBOC3
+643,Pol,NBOC1,NBOX
+644,Pol,NBOC1,NBOC4
+645,Pol,NBOC1,νCNssy
+646,Pol,NBOC1,iCNssy
+647,Pol,NBOC1,νCNsas
+648,Pol,NBOC1,iCNsas
+649,Pol,NBON1,NBOC2
+650,Pol,NBON1,NBOC3
+651,Pol,NBON1,NBOX
+652,Pol,NBON1,NBOC4
+653,Pol,NBON1,νCNssy
+654,Pol,NBON1,iCNssy
+655,Pol,NBON1,νCNsas
+656,Pol,NBON1,iCNsas
+657,Pol,NBOC2,NBOC3
+658,Pol,NBOC2,NBOX
+659,Pol,NBOC2,NBOC4
+660,Pol,NBOC2,νCNssy
+661,Pol,NBOC2,iCNssy
+662,Pol,NBOC2,νCNsas
+663,Pol,NBOC2,iCNsas
+664,Pol,NBOC3,NBOX
+665,Pol,NBOC3,NBOC4
+666,Pol,NBOC3,νCNssy
+667,Pol,NBOC3,iCNssy
+668,Pol,NBOC3,νCNsas
+669,Pol,NBOC3,iCNsas
+670,Pol,NBOX,NBOC4
+671,Pol,NBOX,νCNssy
+672,Pol,NBOX,iCNssy
+673,Pol,NBOX,νCNsas
+674,Pol,NBOX,iCNsas
+675,Pol,NBOC4,νCNssy
+676,Pol,NBOC4,iCNssy
+677,Pol,NBOC4,νCNsas
+678,Pol,NBOC4,iCNsas
+679,Pol,νCNssy,iCNssy
+680,Pol,νCNssy,νCNsas
+681,Pol,νCNssy,iCNsas
+682,Pol,iCNssy,νCNsas
+683,Pol,iCNssy,iCNsas
+684,Pol,νCNsas,iCNsas
+685,Torsion,B1,B5
+686,Torsion,B1,BL
+687,Torsion,B1,Volavg X
+688,Torsion,B1,NBOC1
+689,Torsion,B1,NBON1
+690,Torsion,B1,NBOC2
+691,Torsion,B1,NBOC3
+692,Torsion,B1,NBOX
+693,Torsion,B1,NBOC4
+694,Torsion,B1,νCNssy
+695,Torsion,B1,iCNssy
+696,Torsion,B1,νCNsas
+697,Torsion,B1,iCNsas
+698,Torsion,B5,BL
+699,Torsion,B5,Volavg X
+700,Torsion,B5,NBOC1
+701,Torsion,B5,NBON1
+702,Torsion,B5,NBOC2
+703,Torsion,B5,NBOC3
+704,Torsion,B5,NBOX
+705,Torsion,B5,NBOC4
+706,Torsion,B5,νCNssy
+707,Torsion,B5,iCNssy
+708,Torsion,B5,νCNsas
+709,Torsion,B5,iCNsas
+710,Torsion,BL,Volavg X
+711,Torsion,BL,NBOC1
+712,Torsion,BL,NBON1
+713,Torsion,BL,NBOC2
+714,Torsion,BL,NBOC3
+715,Torsion,BL,NBOX
+716,Torsion,BL,NBOC4
+717,Torsion,BL,νCNssy
+718,Torsion,BL,iCNssy
+719,Torsion,BL,νCNsas
+720,Torsion,BL,iCNsas
+721,Torsion,Volavg X,NBOC1
+722,Torsion,Volavg X,NBON1
+723,Torsion,Volavg X,NBOC2
+724,Torsion,Volavg X,NBOC3
+725,Torsion,Volavg X,NBOX
+726,Torsion,Volavg X,NBOC4
+727,Torsion,Volavg X,νCNssy
+728,Torsion,Volavg X,iCNssy
+729,Torsion,Volavg X,νCNsas
+730,Torsion,Volavg X,iCNsas
+731,Torsion,NBOC1,NBON1
+732,Torsion,NBOC1,NBOC2
+733,Torsion,NBOC1,NBOC3
+734,Torsion,NBOC1,NBOX
+735,Torsion,NBOC1,NBOC4
+736,Torsion,NBOC1,νCNssy
+737,Torsion,NBOC1,iCNssy
+738,Torsion,NBOC1,νCNsas
+739,Torsion,NBOC1,iCNsas
+740,Torsion,NBON1,NBOC2
+741,Torsion,NBON1,NBOC3
+742,Torsion,NBON1,NBOX
+743,Torsion,NBON1,NBOC4
+744,Torsion,NBON1,νCNssy
+745,Torsion,NBON1,iCNssy
+746,Torsion,NBON1,νCNsas
+747,Torsion,NBON1,iCNsas
+748,Torsion,NBOC2,NBOC3
+749,Torsion,NBOC2,NBOX
+750,Torsion,NBOC2,NBOC4
+751,Torsion,NBOC2,νCNssy
+752,Torsion,NBOC2,iCNssy
+753,Torsion,NBOC2,νCNsas
+754,Torsion,NBOC2,iCNsas
+755,Torsion,NBOC3,NBOX
+756,Torsion,NBOC3,NBOC4
+757,Torsion,NBOC3,νCNssy
+758,Torsion,NBOC3,iCNssy
+759,Torsion,NBOC3,νCNsas
+760,Torsion,NBOC3,iCNsas
+761,Torsion,NBOX,NBOC4
+762,Torsion,NBOX,νCNssy
+763,Torsion,NBOX,iCNssy
+764,Torsion,NBOX,νCNsas
+765,Torsion,NBOX,iCNsas
+766,Torsion,NBOC4,νCNssy
+767,Torsion,NBOC4,iCNssy
+768,Torsion,NBOC4,νCNsas
+769,Torsion,NBOC4,iCNsas
+770,Torsion,νCNssy,iCNssy
+771,Torsion,νCNssy,νCNsas
+772,Torsion,νCNssy,iCNsas
+773,Torsion,iCNssy,νCNsas
+774,Torsion,iCNssy,iCNsas
+775,Torsion,νCNsas,iCNsas
+776,B1,B5,BL
+777,B1,B5,Volavg X
+778,B1,B5,NBOC1
+779,B1,B5,NBON1
+780,B1,B5,NBOC2
+781,B1,B5,NBOC3
+782,B1,B5,NBOX
+783,B1,B5,NBOC4
+784,B1,B5,νCNssy
+785,B1,B5,iCNssy
+786,B1,B5,νCNsas
+787,B1,B5,iCNsas
+788,B1,BL,Volavg X
+789,B1,BL,NBOC1
+790,B1,BL,NBON1
+791,B1,BL,NBOC2
+792,B1,BL,NBOC3
+793,B1,BL,NBOX
+794,B1,BL,NBOC4
+795,B1,BL,νCNssy
+796,B1,BL,iCNssy
+797,B1,BL,νCNsas
+798,B1,BL,iCNsas
+799,B1,Volavg X,NBOC1
+800,B1,Volavg X,NBON1
+801,B1,Volavg X,NBOC2
+802,B1,Volavg X,NBOC3
+803,B1,Volavg X,NBOX
+804,B1,Volavg X,NBOC4
+805,B1,Volavg X,νCNssy
+806,B1,Volavg X,iCNssy
+807,B1,Volavg X,νCNsas
+808,B1,Volavg X,iCNsas
+809,B1,NBOC1,NBON1
+810,B1,NBOC1,NBOC2
+811,B1,NBOC1,NBOC3
+812,B1,NBOC1,NBOX
+813,B1,NBOC1,NBOC4
+814,B1,NBOC1,νCNssy
+815,B1,NBOC1,iCNssy
+816,B1,NBOC1,νCNsas
+817,B1,NBOC1,iCNsas
+818,B1,NBON1,NBOC2
+819,B1,NBON1,NBOC3
+820,B1,NBON1,NBOX
+821,B1,NBON1,NBOC4
+822,B1,NBON1,νCNssy
+823,B1,NBON1,iCNssy
+824,B1,NBON1,νCNsas
+825,B1,NBON1,iCNsas
+826,B1,NBOC2,NBOC3
+827,B1,NBOC2,NBOX
+828,B1,NBOC2,NBOC4
+829,B1,NBOC2,νCNssy
+830,B1,NBOC2,iCNssy
+831,B1,NBOC2,νCNsas
+832,B1,NBOC2,iCNsas
+833,B1,NBOC3,NBOX
+834,B1,NBOC3,NBOC4
+835,B1,NBOC3,νCNssy
+836,B1,NBOC3,iCNssy
+837,B1,NBOC3,νCNsas
+838,B1,NBOC3,iCNsas
+839,B1,NBOX,NBOC4
+840,B1,NBOX,νCNssy
+841,B1,NBOX,iCNssy
+842,B1,NBOX,νCNsas
+843,B1,NBOX,iCNsas
+844,B1,NBOC4,νCNssy
+845,B1,NBOC4,iCNssy
+846,B1,NBOC4,νCNsas
+847,B1,NBOC4,iCNsas
+848,B1,νCNssy,iCNssy
+849,B1,νCNssy,νCNsas
+850,B1,νCNssy,iCNsas
+851,B1,iCNssy,νCNsas
+852,B1,iCNssy,iCNsas
+853,B1,νCNsas,iCNsas
+854,B5,BL,Volavg X
+855,B5,BL,NBOC1
+856,B5,BL,NBON1
+857,B5,BL,NBOC2
+858,B5,BL,NBOC3
+859,B5,BL,NBOX
+860,B5,BL,NBOC4
+861,B5,BL,νCNssy
+862,B5,BL,iCNssy
+863,B5,BL,νCNsas
+864,B5,BL,iCNsas
+865,B5,Volavg X,NBOC1
+866,B5,Volavg X,NBON1
+867,B5,Volavg X,NBOC2
+868,B5,Volavg X,NBOC3
+869,B5,Volavg X,NBOX
+870,B5,Volavg X,NBOC4
+871,B5,Volavg X,νCNssy
+872,B5,Volavg X,iCNssy
+873,B5,Volavg X,νCNsas
+874,B5,Volavg X,iCNsas
+875,B5,NBOC1,NBON1
+876,B5,NBOC1,NBOC2
+877,B5,NBOC1,NBOC3
+878,B5,NBOC1,NBOX
+879,B5,NBOC1,NBOC4
+880,B5,NBOC1,νCNssy
+881,B5,NBOC1,iCNssy
+882,B5,NBOC1,νCNsas
+883,B5,NBOC1,iCNsas
+884,B5,NBON1,NBOC2
+885,B5,NBON1,NBOC3
+886,B5,NBON1,NBOX
+887,B5,NBON1,NBOC4
+888,B5,NBON1,νCNssy
+889,B5,NBON1,iCNssy
+890,B5,NBON1,νCNsas
+891,B5,NBON1,iCNsas
+892,B5,NBOC2,NBOC3
+893,B5,NBOC2,NBOX
+894,B5,NBOC2,NBOC4
+895,B5,NBOC2,νCNssy
+896,B5,NBOC2,iCNssy
+897,B5,NBOC2,νCNsas
+898,B5,NBOC2,iCNsas
+899,B5,NBOC3,NBOX
+900,B5,NBOC3,NBOC4
+901,B5,NBOC3,νCNssy
+902,B5,NBOC3,iCNssy
+903,B5,NBOC3,νCNsas
+904,B5,NBOC3,iCNsas
+905,B5,NBOX,NBOC4
+906,B5,NBOX,νCNssy
+907,B5,NBOX,iCNssy
+908,B5,NBOX,νCNsas
+909,B5,NBOX,iCNsas
+910,B5,NBOC4,νCNssy
+911,B5,NBOC4,iCNssy
+912,B5,NBOC4,νCNsas
+913,B5,NBOC4,iCNsas
+914,B5,νCNssy,iCNssy
+915,B5,νCNssy,νCNsas
+916,B5,νCNssy,iCNsas
+917,B5,iCNssy,νCNsas
+918,B5,iCNssy,iCNsas
+919,B5,νCNsas,iCNsas
+920,BL,Volavg X,NBOC1
+921,BL,Volavg X,NBON1
+922,BL,Volavg X,NBOC2
+923,BL,Volavg X,NBOC3
+924,BL,Volavg X,NBOX
+925,BL,Volavg X,NBOC4
+926,BL,Volavg X,νCNssy
+927,BL,Volavg X,iCNssy
+928,BL,Volavg X,νCNsas
+929,BL,Volavg X,iCNsas
+930,BL,NBOC1,NBON1
+931,BL,NBOC1,NBOC2
+932,BL,NBOC1,NBOC3
+933,BL,NBOC1,NBOX
+934,BL,NBOC1,NBOC4
+935,BL,NBOC1,νCNssy
+936,BL,NBOC1,iCNssy
+937,BL,NBOC1,νCNsas
+938,BL,NBOC1,iCNsas
+939,BL,NBON1,NBOC2
+940,BL,NBON1,NBOC3
+941,BL,NBON1,NBOX
+942,BL,NBON1,NBOC4
+943,BL,NBON1,νCNssy
+944,BL,NBON1,iCNssy
+945,BL,NBON1,νCNsas
+946,BL,NBON1,iCNsas
+947,BL,NBOC2,NBOC3
+948,BL,NBOC2,NBOX
+949,BL,NBOC2,NBOC4
+950,BL,NBOC2,νCNssy
+951,BL,NBOC2,iCNssy
+952,BL,NBOC2,νCNsas
+953,BL,NBOC2,iCNsas
+954,BL,NBOC3,NBOX
+955,BL,NBOC3,NBOC4
+956,BL,NBOC3,νCNssy
+957,BL,NBOC3,iCNssy
+958,BL,NBOC3,νCNsas
+959,BL,NBOC3,iCNsas
+960,BL,NBOX,NBOC4
+961,BL,NBOX,νCNssy
+962,BL,NBOX,iCNssy
+963,BL,NBOX,νCNsas
+964,BL,NBOX,iCNsas
+965,BL,NBOC4,νCNssy
+966,BL,NBOC4,iCNssy
+967,BL,NBOC4,νCNsas
+968,BL,NBOC4,iCNsas
+969,BL,νCNssy,iCNssy
+970,BL,νCNssy,νCNsas
+971,BL,νCNssy,iCNsas
+972,BL,iCNssy,νCNsas
+973,BL,iCNssy,iCNsas
+974,BL,νCNsas,iCNsas
+975,Volavg X,NBOC1,NBON1
+976,Volavg X,NBOC1,NBOC2
+977,Volavg X,NBOC1,NBOC3
+978,Volavg X,NBOC1,NBOX
+979,Volavg X,NBOC1,NBOC4
+980,Volavg X,NBOC1,νCNssy
+981,Volavg X,NBOC1,iCNssy
+982,Volavg X,NBOC1,νCNsas
+983,Volavg X,NBOC1,iCNsas
+984,Volavg X,NBON1,NBOC2
+985,Volavg X,NBON1,NBOC3
+986,Volavg X,NBON1,NBOX
+987,Volavg X,NBON1,NBOC4
+988,Volavg X,NBON1,νCNssy
+989,Volavg X,NBON1,iCNssy
+990,Volavg X,NBON1,νCNsas
+991,Volavg X,NBON1,iCNsas
+992,Volavg X,NBOC2,NBOC3
+993,Volavg X,NBOC2,NBOX
+994,Volavg X,NBOC2,NBOC4
+995,Volavg X,NBOC2,νCNssy
+996,Volavg X,NBOC2,iCNssy
+997,Volavg X,NBOC2,νCNsas
+998,Volavg X,NBOC2,iCNsas
+999,Volavg X,NBOC3,NBOX
+1000,Volavg X,NBOC3,NBOC4
+1001,Volavg X,NBOC3,νCNssy
+1002,Volavg X,NBOC3,iCNssy
+1003,Volavg X,NBOC3,νCNsas
+1004,Volavg X,NBOC3,iCNsas
+1005,Volavg X,NBOX,NBOC4
+1006,Volavg X,NBOX,νCNssy
+1007,Volavg X,NBOX,iCNssy
+1008,Volavg X,NBOX,νCNsas
+1009,Volavg X,NBOX,iCNsas
+1010,Volavg X,NBOC4,νCNssy
+1011,Volavg X,NBOC4,iCNssy
+1012,Volavg X,NBOC4,νCNsas
+1013,Volavg X,NBOC4,iCNsas
+1014,Volavg X,νCNssy,iCNssy
+1015,Volavg X,νCNssy,νCNsas
+1016,Volavg X,νCNssy,iCNsas
+1017,Volavg X,iCNssy,νCNsas
+1018,Volavg X,iCNssy,iCNsas
+1019,Volavg X,νCNsas,iCNsas
+1020,NBOC1,NBON1,NBOC2
+1021,NBOC1,NBON1,NBOC3
+1022,NBOC1,NBON1,NBOX
+1023,NBOC1,NBON1,NBOC4
+1024,NBOC1,NBON1,νCNssy
+1025,NBOC1,NBON1,iCNssy
+1026,NBOC1,NBON1,νCNsas
+1027,NBOC1,NBON1,iCNsas
+1028,NBOC1,NBOC2,NBOC3
+1029,NBOC1,NBOC2,NBOX
+1030,NBOC1,NBOC2,NBOC4
+1031,NBOC1,NBOC2,νCNssy
+1032,NBOC1,NBOC2,iCNssy
+1033,NBOC1,NBOC2,νCNsas
+1034,NBOC1,NBOC2,iCNsas
+1035,NBOC1,NBOC3,NBOX
+1036,NBOC1,NBOC3,NBOC4
+1037,NBOC1,NBOC3,νCNssy
+1038,NBOC1,NBOC3,iCNssy
+1039,NBOC1,NBOC3,νCNsas
+1040,NBOC1,NBOC3,iCNsas
+1041,NBOC1,NBOX,NBOC4
+1042,NBOC1,NBOX,νCNssy
+1043,NBOC1,NBOX,iCNssy
+1044,NBOC1,NBOX,νCNsas
+1045,NBOC1,NBOX,iCNsas
+1046,NBOC1,NBOC4,νCNssy
+1047,NBOC1,NBOC4,iCNssy
+1048,NBOC1,NBOC4,νCNsas
+1049,NBOC1,NBOC4,iCNsas
+1050,NBOC1,νCNssy,iCNssy
+1051,NBOC1,νCNssy,νCNsas
+1052,NBOC1,νCNssy,iCNsas
+1053,NBOC1,iCNssy,νCNsas
+1054,NBOC1,iCNssy,iCNsas
+1055,NBOC1,νCNsas,iCNsas
+1056,NBON1,NBOC2,NBOC3
+1057,NBON1,NBOC2,NBOX
+1058,NBON1,NBOC2,NBOC4
+1059,NBON1,NBOC2,νCNssy
+1060,NBON1,NBOC2,iCNssy
+1061,NBON1,NBOC2,νCNsas
+1062,NBON1,NBOC2,iCNsas
+1063,NBON1,NBOC3,NBOX
+1064,NBON1,NBOC3,NBOC4
+1065,NBON1,NBOC3,νCNssy
+1066,NBON1,NBOC3,iCNssy
+1067,NBON1,NBOC3,νCNsas
+1068,NBON1,NBOC3,iCNsas
+1069,NBON1,NBOX,NBOC4
+1070,NBON1,NBOX,νCNssy
+1071,NBON1,NBOX,iCNssy
+1072,NBON1,NBOX,νCNsas
+1073,NBON1,NBOX,iCNsas
+1074,NBON1,NBOC4,νCNssy
+1075,NBON1,NBOC4,iCNssy
+1076,NBON1,NBOC4,νCNsas
+1077,NBON1,NBOC4,iCNsas
+1078,NBON1,νCNssy,iCNssy
+1079,NBON1,νCNssy,νCNsas
+1080,NBON1,νCNssy,iCNsas
+1081,NBON1,iCNssy,νCNsas
+1082,NBON1,iCNssy,iCNsas
+1083,NBON1,νCNsas,iCNsas
+1084,NBOC2,NBOC3,NBOX
+1085,NBOC2,NBOC3,NBOC4
+1086,NBOC2,NBOC3,νCNssy
+1087,NBOC2,NBOC3,iCNssy
+1088,NBOC2,NBOC3,νCNsas
+1089,NBOC2,NBOC3,iCNsas
+1090,NBOC2,NBOX,NBOC4
+1091,NBOC2,NBOX,νCNssy
+1092,NBOC2,NBOX,iCNssy
+1093,NBOC2,NBOX,νCNsas
+1094,NBOC2,NBOX,iCNsas
+1095,NBOC2,NBOC4,νCNssy
+1096,NBOC2,NBOC4,iCNssy
+1097,NBOC2,NBOC4,νCNsas
+1098,NBOC2,NBOC4,iCNsas
+1099,NBOC2,νCNssy,iCNssy
+1100,NBOC2,νCNssy,νCNsas
+1101,NBOC2,νCNssy,iCNsas
+1102,NBOC2,iCNssy,νCNsas
+1103,NBOC2,iCNssy,iCNsas
+1104,NBOC2,νCNsas,iCNsas
+1105,NBOC3,NBOX,NBOC4
+1106,NBOC3,NBOX,νCNssy
+1107,NBOC3,NBOX,iCNssy
+1108,NBOC3,NBOX,νCNsas
+1109,NBOC3,NBOX,iCNsas
+1110,NBOC3,NBOC4,νCNssy
+1111,NBOC3,NBOC4,iCNssy
+1112,NBOC3,NBOC4,νCNsas
+1113,NBOC3,NBOC4,iCNsas
+1114,NBOC3,νCNssy,iCNssy
+1115,NBOC3,νCNssy,νCNsas
+1116,NBOC3,νCNssy,iCNsas
+1117,NBOC3,iCNssy,νCNsas
+1118,NBOC3,iCNssy,iCNsas
+1119,NBOC3,νCNsas,iCNsas
+1120,NBOX,NBOC4,νCNssy
+1121,NBOX,NBOC4,iCNssy
+1122,NBOX,NBOC4,νCNsas
+1123,NBOX,NBOC4,iCNsas
+1124,NBOX,νCNssy,iCNssy
+1125,NBOX,νCNssy,νCNsas
+1126,NBOX,νCNssy,iCNsas
+1127,NBOX,iCNssy,νCNsas
+1128,NBOX,iCNssy,iCNsas
+1129,NBOX,νCNsas,iCNsas
+1130,NBOC4,νCNssy,iCNssy
+1131,NBOC4,νCNssy,νCNsas
+1132,NBOC4,νCNssy,iCNsas
+1133,NBOC4,iCNssy,νCNsas
+1134,NBOC4,iCNssy,iCNsas
+1135,NBOC4,νCNsas,iCNsas
+1136,νCNssy,iCNssy,νCNsas
+1137,νCNssy,iCNssy,iCNsas
+1138,νCNssy,νCNsas,iCNsas
+1139,iCNssy,νCNsas,iCNsas
